@@ -1,0 +1,4 @@
+[
+    { "name": "Áo thun", "colors": ["Đỏ", "Xanh", "Trắng"], "sizes": ["S", "M", "L"], "price": 200000 },
+    { "name": "Quần jean", "colors": ["Đen", "Xanh"], "sizes": ["M", "L", "XL"], "price": 350000 }
+]
